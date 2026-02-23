@@ -1,0 +1,25 @@
+---
+layout: base
+title: "Complete Day Trading Course"
+---
+<section class="space-y-6">
+  <p class="text-sm uppercase tracking-widest text-emerald-300">2026 Edition</p>
+  <h1 class="text-5xl font-semibold text-white max-w-3xl">Master day trading from zero to strategy launch.</h1>
+  <p class="text-lg text-slate-300 max-w-3xl">{{ site.tagline }} Inside you’ll find 18 fully scripted modules, printable worksheets, quizzes, and plug-and-play routines. Work through the lessons sequentially or jump straight to the pieces you need.</p>
+  <a href="/downloads/" class="inline-flex items-center gap-2 bg-emerald-400 text-slate-950 font-semibold px-6 py-3 rounded-lg shadow-lg shadow-emerald-400/40">Download the PDF bundle</a>
+</section>
+<section class="mt-16">
+  <div class="flex items-center justify-between mb-4">
+    <h2 class="text-2xl font-semibold text-white">Curriculum Overview</h2>
+    <span class="text-sm text-slate-400">{{ collections.module | length }} modules</span>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+    {% for module in collections.module | sort(attribute='data.order') %}
+    <a href="{{ module.url }}" class="group border border-slate-800 bg-slate-900/60 rounded-2xl p-6 hover:border-emerald-400/60 transition">
+      <p class="text-xs uppercase tracking-widest text-slate-400">Module {{ module.data.order }}</p>
+      <h3 class="text-xl font-semibold text-white group-hover:text-emerald-300">{{ module.data.title }}</h3>
+      <p class="text-sm text-slate-400 line-clamp-3">{{ module.templateContent | striptags | truncate(180) }}</p>
+    </a>
+    {% endfor %}
+  </div>
+</section>

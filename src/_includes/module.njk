@@ -1,0 +1,34 @@
+---
+layout: base
+---
+<section class="space-y-6">
+  <p class="text-emerald-300 uppercase tracking-widest text-xs">Module {{ order }}</p>
+  <h1 class="text-4xl font-semibold text-white">{{ title }}</h1>
+  <div class="prose prose-invert prose-emerald max-w-none">
+    {{ content | safe }}
+  </div>
+  {% set quiz = quizzes[slug] %}
+  <div class="mt-10 border border-emerald-400/30 rounded-lg p-6 bg-slate-900/60">
+    <h2 class="text-xl font-semibold text-emerald-300 mb-2">Checkpoint Quiz</h2>
+    <p class="text-sm text-slate-400 mb-4">Quick self-check to lock in the concepts from this module.</p>
+    {% if quiz %}
+      <ol class="space-y-4">
+        {% for question in quiz %}
+        <li>
+          <p class="font-semibold">{{ question.prompt }}</p>
+          <ul class="mt-2 space-y-1">
+            {% for option in question.options %}
+            <li class="flex items-center gap-2">
+              <input type="radio" name="q{{ loop.parent.loop.index }}" value="{{ option.value }}" disabled>
+              <span class="{{ 'text-emerald-300' if option.correct else 'text-slate-300' }}">{{ option.label }}</span>
+            </li>
+            {% endfor %}
+          </ul>
+        </li>
+        {% endfor %}
+      </ol>
+    {% else %}
+      <p class="text-slate-400">Quiz coming soon.</p>
+    {% endif %}
+  </div>
+</section>
