@@ -3,6 +3,7 @@ const { DateTime } = require("luxon");
 module.exports = function(eleventyConfig) {
   console.log("Eleventy config loaded");
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
+  eleventyConfig.addPassthroughCopy({ "src/CNAME": "CNAME" });
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("DDD");
