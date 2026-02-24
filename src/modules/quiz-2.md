@@ -1,5 +1,10 @@
 ---
 layout: base
+title: "Quiz: Module 2"
+---
+
+---
+layout: base
 title: "Quiz: Market Structure"
 ---
 

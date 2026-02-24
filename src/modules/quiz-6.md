@@ -1,5 +1,10 @@
 ---
 layout: base
+title: "Quiz: Module 6"
+---
+
+---
+layout: base
 title: "Quiz: Supply and Demand Zones"
 ---
 

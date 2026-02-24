@@ -1,5 +1,10 @@
 ---
 layout: base
+title: "Quiz: Module 1"
+---
+
+---
+layout: base
 title: "Quiz: What Is Day Trading?"
 ---
 
