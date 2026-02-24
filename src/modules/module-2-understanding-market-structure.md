@@ -11,11 +11,11 @@ Market structure is the foundation of all trading decisions. Before using any in
 
 ### Defining Trends
 
-An **uptrend** is defined by a series of **higher highs (HH)** and **higher lows (HL)**—each peak is higher than the last, and each trough is higher than the previous one. A **downtrend** is the opposite: a series of **lower lows (LL)** and **lower highs (LH)**.[^10]
+An **uptrend** is defined by a series of **higher highs (HH)** and **higher lows (HL)**—each peak is higher than the last, and each trough is higher than the previous one. A **downtrend** is the opposite: a series of **lower lows (LL)** and **lower highs (LH)**.
 
 ### Key Rule: Validating Swing Points
 
-A swing low is only "valid" if price subsequently breaks the previous swing high. A swing high is only "valid" if price subsequently breaks the previous swing low. This prevents false identification of trend changes.[^11]
+A swing low is only "valid" if price subsequently breaks the previous swing high. A swing high is only "valid" if price subsequently breaks the previous swing low. This prevents false identification of trend changes.
 
 ### How Trends Change (Break of Structure)
 
@@ -25,7 +25,7 @@ A trend changes when:
 
 ### Trading with Market Structure
 
-The cardinal rule: **only trade in the direction of the prevailing trend**. In an uptrend, look exclusively for long (buy) setups. In a downtrend, look exclusively for short (sell) setups. Counter-trend trades have significantly lower probability and should be avoided by beginners.[^10][^12]
+The cardinal rule: **only trade in the direction of the prevailing trend**. In an uptrend, look exclusively for long (buy) setups. In a downtrend, look exclusively for short (sell) setups. Counter-trend trades have significantly lower probability and should be avoided by beginners.
 
 ### Ranging/Consolidation Markets
 

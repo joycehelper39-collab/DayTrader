@@ -18,7 +18,7 @@ Avoid these pitfalls that trap most new traders:
 7. **Strategy hopping**: Switching strategies after every loss instead of giving one strategy enough time.
 8. **Ignoring risk management**: Focusing on entries while neglecting position sizing and stop-losses.
 9. **Trading during high-impact news**: News events create unpredictable volatility that stops out even good setups.
-10. **Going live too early**: Skipping backtesting and paper trading because you're impatient to make money.[^31]
+10. **Going live too early**: Skipping backtesting and paper trading because you're impatient to make money.
 
 ***
 
@@ -48,18 +48,18 @@ Avoid these pitfalls that trap most new traders:
 
 **Books**:
 - *Trading in the Zone* by Mark Douglas (trading psychology)
-- *Japanese Candlestick Charting Techniques* by Steve Nison (candlestick mastery)[^13]
-- *How to Day Trade for a Living* by Andrew Aziz (beginner foundations)[^49]
+- *Japanese Candlestick Charting Techniques* by Steve Nison (candlestick mastery)
+- *How to Day Trade for a Living* by Andrew Aziz (beginner foundations)
 
 **Platforms**:
 - TradingView (charting, backtesting, community scripts)
 - OANDA (forex broker with competitive spreads)
-- MetaTrader 5 (versatile forex/CFD platform)[^47]
+- MetaTrader 5 (versatile forex/CFD platform)
 
 **Practice**:
 - TradingView Replay Mode (free chart replay for backtesting)
 - Demo accounts on your chosen broker
-- BabyPips.com School of Pipsology (free forex education)[^50]
+- BabyPips.com School of Pipsology (free forex education)
 
 ***
 

@@ -7,7 +7,7 @@ tags:
 slug: module-12-building-your-trading-plan
 ---
 
-A trading plan is a **written document** that defines every aspect of how and why you trade. It is not the same as a trading journal—it is the blueprint you create before you start trading.[^32][^33]
+A trading plan is a **written document** that defines every aspect of how and why you trade. It is not the same as a trading journal—it is the blueprint you create before you start trading.
 
 ### Components of a Complete Trading Plan
 
@@ -16,14 +16,14 @@ Define exactly what you trade: specific forex pairs (EUR/USD, GBP/USD), specific
 
 **2. Trading Sessions and Hours**
 
-For stocks, focus on the first hour (9:30-10:30 AM ET) and the last hour (3:00-4:00 PM ET) when volatility and volume are highest. For forex, focus on the London-New York overlap (8:00 AM - 12:00 PM EST) which accounts for roughly 50% of daily forex volume.[^34][^35]
+For stocks, focus on the first hour (9:30-10:30 AM ET) and the last hour (3:00-4:00 PM ET) when volatility and volume are highest. For forex, focus on the London-New York overlap (8:00 AM - 12:00 PM EST) which accounts for roughly 50% of daily forex volume.
 
 | Session | Time (EST) | Best For |
 |---------|-----------|----------|
 | Asian (Tokyo) | 7 PM – 4 AM | JPY pairs, low volatility |
-| European (London) | 3 AM – 12 PM | GBP/EUR pairs, high liquidity[^35] |
+| European (London) | 3 AM – 12 PM | GBP/EUR pairs, high liquidity |
 | US (New York) | 8 AM – 5 PM | USD pairs, high volatility |
-| London/NY Overlap | 8 AM – 12 PM | Highest volume period—optimal for day trading[^34] |
+| London/NY Overlap | 8 AM – 12 PM | Highest volume period—optimal for day trading |
 
 **3. Strategy Rules**
 Write exact, unambiguous rules for:
@@ -32,7 +32,7 @@ Write exact, unambiguous rules for:
 - What confirmation you need to enter (candlestick patterns, indicator signals).
 - Where your stop-loss goes.
 - Where your take-profit goes.
-- Minimum risk-to-reward ratio.[^33][^11]
+- Minimum risk-to-reward ratio.
 
 **4. Risk Parameters**
 - Maximum risk per trade (1% recommended).
@@ -44,7 +44,7 @@ Write exact, unambiguous rules for:
 - Check the economic calendar for high-impact news events.
 - Review the daily/4H charts for trend direction and key zones.
 - Build a watchlist of instruments showing potential setups.
-- Set alerts at key levels.[^36]
+- Set alerts at key levels.
 
 **6. Post-Market Routine**
 - Journal every trade (see Module 14).

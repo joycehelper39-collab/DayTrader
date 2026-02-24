@@ -7,11 +7,11 @@ tags:
 slug: module-10-risk-management-and-position-sizing
 ---
 
-Risk management is what separates profitable traders from blown accounts. No strategy, no matter how good, will save you without proper risk control.[^28][^29]
+Risk management is what separates profitable traders from blown accounts. No strategy, no matter how good, will save you without proper risk control.
 
 ### The 1-2% Rule
 
-Never risk more than 1-2% of your total trading capital on a single trade. For beginners, lean toward 1% until you have a proven track record.[^29][^28]
+Never risk more than 1-2% of your total trading capital on a single trade. For beginners, lean toward 1% until you have a proven track record.
 
 | Account Size | 1% Risk Per Trade | 2% Risk Per Trade |
 |-------------|-------------------|-------------------|
@@ -19,11 +19,11 @@ Never risk more than 1-2% of your total trading capital on a single trade. For b
 | $5,000 | $50 | $100 |
 | $10,000 | $100 | $200 |
 | $25,000 | $250 | $500 |
-| $50,000 | $500 | $1,000[^28] |
+| $50,000 | $500 | $1,000 |
 
 ### Position Sizing Formula
 
-Position sizing calculates exactly how many shares, lots, or units to trade based on your risk parameters:[^30][^28]
+Position sizing calculates exactly how many shares, lots, or units to trade based on your risk parameters:
 
 \[
 \text{Position Size} = \frac{\text{Account Risk (in dollars)}}{\text{Trade Risk (per unit)}}
@@ -31,19 +31,19 @@ Position sizing calculates exactly how many shares, lots, or units to trade base
 
 Where:
 - **Account Risk** = Account Balance × Risk Percentage
-- **Trade Risk** = Entry Price − Stop-Loss Price (for longs)[^28]
+- **Trade Risk** = Entry Price − Stop-Loss Price (for longs)
 
-**Example**: $10,000 account, 1% risk = $100 risk per trade. You enter a stock at $50 with a stop-loss at $48. Trade risk per share = $2. Position size = $100 / $2 = **50 shares**.[^30][^28]
+**Example**: $10,000 account, 1% risk = $100 risk per trade. You enter a stock at $50 with a stop-loss at $48. Trade risk per share = $2. Position size = $100 / $2 = **50 shares**.
 
 ### Risk-to-Reward Ratio (RRR)
 
-Before entering any trade, calculate the ratio of potential profit to potential loss:[^11]
+Before entering any trade, calculate the ratio of potential profit to potential loss:
 
 \[
 \text{RRR} = \frac{\text{Distance to Take-Profit}}{\text{Distance to Stop-Loss}}
 \]
 
-Only take trades with a **minimum 2.5:1 or 3:1 RRR**. This means your potential reward should be at least 2.5-3 times your potential risk. With a 3:1 RRR, you can be wrong 60% of the time and still be profitable.[^10][^11]
+Only take trades with a **minimum 2.5:1 or 3:1 RRR**. This means your potential reward should be at least 2.5-3 times your potential risk. With a 3:1 RRR, you can be wrong 60% of the time and still be profitable.
 
 ### Stop-Loss Placement
 

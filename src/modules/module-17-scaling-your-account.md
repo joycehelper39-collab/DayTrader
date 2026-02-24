@@ -21,13 +21,13 @@ Even modest daily returns compound explosively over time. The key is **consisten
 
 ### Graduated Position Sizing
 
-As your account and skill grow, gradually increase position size:[^48]
+As your account and skill grow, gradually increase position size:
 
 **Stage 1 – Learning (Months 1-6)**: Risk 0.5-1% per trade. Focus on process, not profit. Goal: consistent execution of your rules.
 
 **Stage 2 – Developing (Months 6-12)**: If consistently profitable, increase to 1-1.5% risk. Introduce a second strategy or additional instruments.
 
-**Stage 3 – Proficient (Year 1+)**: Risk up to 2% on your highest-conviction setups. Scale down to 1% on lower-conviction setups. Begin pressing winners (adding to winning positions at pullbacks).[^48]
+**Stage 3 – Proficient (Year 1+)**: Risk up to 2% on your highest-conviction setups. Scale down to 1% on lower-conviction setups. Begin pressing winners (adding to winning positions at pullbacks).
 
 ### When to Go Live
 
@@ -43,6 +43,6 @@ Transition from paper trading to live trading only when:
 - Never risk money you need for living expenses.
 - Start with the **smallest position size** your broker allows.
 - Increase size only after proving consistent profitability at the current level.
-- If you experience a drawdown of 10%+, reduce position size until you recover.[^29]
+- If you experience a drawdown of 10%+, reduce position size until you recover.
 
 ***

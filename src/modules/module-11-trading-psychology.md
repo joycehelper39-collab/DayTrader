@@ -39,7 +39,7 @@ Mark Douglas's "Trading in the Zone" is considered essential reading for every t
 
 ### The Trader's Development Phases
 
-Warrior Trading's Ross Cameron outlines five phases every trader goes through:[^31]
+Warrior Trading's Ross Cameron outlines five phases every trader goes through:
 
 1. **Phase 1 – Unconscious Incompetence**: You don't know what you don't know. Excitement without understanding.
 2. **Phase 2 – Conscious Incompetence**: You start learning and realize how much you don't know. Most quit here.
@@ -47,6 +47,6 @@ Warrior Trading's Ross Cameron outlines five phases every trader goes through:[^
 4. **Phase 4 – Unconscious Competence**: Following your rules becomes second nature.
 5. **Phase 5 – Mastery**: Consistent profitability with refined execution.
 
-Understanding these phases gives you context for where you are and where you're going.[^31]
+Understanding these phases gives you context for where you are and where you're going.
 
 ***

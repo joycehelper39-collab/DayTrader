@@ -7,14 +7,14 @@ tags:
 slug: module-13-backtesting-your-strategy
 ---
 
-Backtesting is the process of applying your trading strategy to **historical data** to evaluate how it would have performed in the past. It is a critical step before risking real capital.[^37][^38]
+Backtesting is the process of applying your trading strategy to **historical data** to evaluate how it would have performed in the past. It is a critical step before risking real capital.
 
 ### Why Backtest?
 
-- Validates whether your strategy has a statistical edge.[^37]
+- Validates whether your strategy has a statistical edge.
 - Identifies strengths and weaknesses in your rules.
 - Builds confidence in your system before going live.
-- Establishes realistic expectations for win rate, drawdown, and profitability.[^39]
+- Establishes realistic expectations for win rate, drawdown, and profitability.
 
 ### Manual Backtesting (Chart Replay)
 
@@ -33,22 +33,22 @@ This is the most accessible method for beginners:
 - **Average winner vs. average loser**: Your average winning trade should be significantly larger than your average losing trade.
 - **Maximum drawdown**: The largest peak-to-trough decline.
 - **Profit factor**: Gross profit / Gross loss. Above 1.5 is solid; above 2.0 is excellent.
-- **Expectancy**: (Win% × Average Win) – (Loss% × Average Loss). Must be positive.[^38][^37]
+- **Expectancy**: (Win% × Average Win) – (Loss% × Average Loss). Must be positive.
 
 ### Backtesting Pitfalls to Avoid
 
-- **Curve fitting**: Over-optimizing your rules to perfectly fit historical data. This won't work in live trading.[^38]
-- **Survivorship bias**: Only testing on assets that "survived" (e.g., only testing on stocks that still exist, ignoring delisted ones).[^38]
+- **Curve fitting**: Over-optimizing your rules to perfectly fit historical data. This won't work in live trading.
+- **Survivorship bias**: Only testing on assets that "survived" (e.g., only testing on stocks that still exist, ignoring delisted ones).
 - **Look-ahead bias**: Using information that wouldn't have been available at the time of the trade.
 - **Insufficient sample size**: Testing on 10-20 trades proves nothing. You need at least 50-100+.
-- **Single market condition**: Test across trending, ranging, and volatile conditions.[^37]
+- **Single market condition**: Test across trending, ranging, and volatile conditions.
 
 ### Paper Trading (Forward Testing)
 
 After successful backtesting, transition to **paper trading** (demo trading):
 - Trade your strategy in real-time with simulated money.
 - This tests your ability to execute under live market conditions (speed, emotion, decision-making).
-- Paper trade for **at least 1-3 months** before going live.[^40]
+- Paper trade for **at least 1-3 months** before going live.
 - Track results the same way as backtesting.
 
 ***

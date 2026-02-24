@@ -7,7 +7,7 @@ tags:
 slug: module-16-putting-it-all-together-daily-routine
 ---
 
-Here is a structured daily routine that incorporates everything from this course.[^36]
+Here is a structured daily routine that incorporates everything from this course.
 
 ### Pre-Market (30-60 Minutes Before Session Open)
 
@@ -20,7 +20,7 @@ Here is a structured daily routine that incorporates everything from this course
 ### During the Session
 
 6. **Wait for price to reach your zones**: Do not force trades. If nothing is at your zones, do nothing.
-7. **Confirm with lower timeframe**: When price reaches a zone, switch to your execution timeframe and look for candlestick confirmation.[^16]
+7. **Confirm with lower timeframe**: When price reaches a zone, switch to your execution timeframe and look for candlestick confirmation.
 8. **Execute according to your plan**: Enter, set stop-loss, set take-profit. Then step back.
 9. **Do not move your stop-loss** (unless trailing it in profit according to your rules).
 10. **Manage your emotions**: If you hit your max daily loss, close the platform and walk away.
