@@ -3,7 +3,7 @@ title: "Module 8: Multi-Timeframe Analysis (Top-Down Approach)"
 order: 8
 layout: module
 tags:
-  - module
+ - module
 slug: module-8-multi-timeframe-analysis-top-down-approach
 ---
 

@@ -3,7 +3,7 @@ title: "Module 7: Technical Indicators"
 order: 7
 layout: module
 tags:
-  - module
+ - module
 slug: module-7-technical-indicators
 ---
 
@@ -64,6 +64,6 @@ Indicators are most effective when used in combination rather than isolation:[^1
 
 ### Important Warning About Indicators
 
-Indicators are **lagging**—they tell you what has already happened, not what will happen. Many profitable traders use no indicators at all and rely entirely on price action, market structure, and supply/demand. Use indicators as confirmation tools, not primary decision-makers.[^19][^10][^8][^18]
+Indicators are **lagging**—they tell you what has already happened, not what will happen. Many profitable traders use no indicators at all and rely entirely on price action, market structure, and supply/demand. Use indicators as confirmation tools, not primary decision-makers.[^19][^10][^18]
 
 ***

@@ -3,15 +3,15 @@ title: "Module 2: Understanding Market Structure"
 order: 2
 layout: module
 tags:
-  - module
+ - module
 slug: module-2-understanding-market-structure
 ---
 
-Market structure is the foundation of all trading decisions. Before using any indicator or pattern, you must determine the direction of the prevailing trend.[^8]
+Market structure is the foundation of all trading decisions. Before using any indicator or pattern, you must determine the direction of the prevailing trend.
 
 ### Defining Trends
 
-An **uptrend** is defined by a series of **higher highs (HH)** and **higher lows (HL)**—each peak is higher than the last, and each trough is higher than the previous one. A **downtrend** is the opposite: a series of **lower lows (LL)** and **lower highs (LH)**.[^9][^10]
+An **uptrend** is defined by a series of **higher highs (HH)** and **higher lows (HL)**—each peak is higher than the last, and each trough is higher than the previous one. A **downtrend** is the opposite: a series of **lower lows (LL)** and **lower highs (LH)**.[^10]
 
 ### Key Rule: Validating Swing Points
 
@@ -29,6 +29,6 @@ The cardinal rule: **only trade in the direction of the prevailing trend**. In a
 
 ### Ranging/Consolidation Markets
 
-When price is moving sideways—making roughly equal highs and equal lows—the market is **consolidating**. During consolidation, price is trapped between support and resistance. Many traders choose to avoid trading during consolidation and wait for a breakout that establishes a new trend.[^8]
+When price is moving sideways—making roughly equal highs and equal lows—the market is **consolidating**. During consolidation, price is trapped between support and resistance. Many traders choose to avoid trading during consolidation and wait for a breakout that establishes a new trend.
 
 ***

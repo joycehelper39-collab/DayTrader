@@ -3,11 +3,11 @@ title: "Module 11: Trading Psychology"
 order: 11
 layout: module
 tags:
-  - module
+ - module
 slug: module-11-trading-psychology
 ---
 
-Most traders fail not because of bad strategies, but because of poor psychology. Trading is a probability game requiring extreme self-discipline, patience, and dedication.[^8]
+Most traders fail not because of bad strategies, but because of poor psychology. Trading is a probability game requiring extreme self-discipline, patience, and dedication.
 
 ### The Five Emotional Enemies
 
@@ -15,15 +15,15 @@ Most traders fail not because of bad strategies, but because of poor psychology.
 
 **2. Greed**: Greed causes over-leveraging, moving take-profits further away, or refusing to take profit. Combat it with predetermined targets and strict rules.
 
-**3. Revenge Trading**: After a loss, the urge to immediately recover by taking unplanned trades. This almost always leads to larger losses. If you lose, step away.[^8]
+**3. Revenge Trading**: After a loss, the urge to immediately recover by taking unplanned trades. This almost always leads to larger losses. If you lose, step away.
 
 **4. FOMO (Fear of Missing Out)**: Chasing a trade after it has already moved significantly. The entry is poor, the stop-loss is wide, and the risk-to-reward is terrible. If you missed it, wait for the next setup.
 
-**5. Overconfidence**: A streak of wins can make you abandon your rules—increasing position size, taking lower-quality setups. The market will humble you.[^8]
+**5. Overconfidence**: A streak of wins can make you abandon your rules—increasing position size, taking lower-quality setups. The market will humble you.
 
 ### Mark Douglas's Core Principles
 
-Mark Douglas's "Trading in the Zone" is considered essential reading for every trader:[^8]
+Mark Douglas's "Trading in the Zone" is considered essential reading for every trader:
 
 - **Think in probabilities**: No single trade matters. Your edge plays out over a series of trades.
 - **The outcome of any single trade is random**: Even a perfect setup can lose. Accept this before entering.
@@ -32,7 +32,7 @@ Mark Douglas's "Trading in the Zone" is considered essential reading for every t
 
 ### Building Discipline
 
-- **Trade your plan, not your emotions**: Write your rules before the market opens. Follow them mechanically.[^8]
+- **Trade your plan, not your emotions**: Write your rules before the market opens. Follow them mechanically.
 - **Accept losses as a cost of doing business**: Every business has expenses. In trading, controlled losses are your operating cost.
 - **Process over outcome**: Judge yourself on whether you followed your rules, not on the P&L of individual trades.
 - **Take breaks**: If you're frustrated, anxious, or emotional, step away from the screen.

@@ -3,19 +3,19 @@ title: "Module 6: Supply and Demand Zones"
 order: 6
 layout: module
 tags:
-  - module
+ - module
 slug: module-6-supply-and-demand-zones
 ---
 
-Supply and demand zones go deeper than traditional support and resistance by focusing on **where institutional orders created imbalances** that moved price significantly.[^16][^7]
+Supply and demand zones go deeper than traditional support and resistance by focusing on **where institutional orders created imbalances** that moved price significantly.[^16]
 
 ### What Creates Supply and Demand Zones?
 
-When institutions (banks, hedge funds, large asset managers) place massive orders, they cannot fill them all at once. This creates price imbalances—areas where demand significantly exceeded supply (demand zones) or supply significantly exceeded demand (supply zones). Price is expected to react when it returns to these zones because unfilled institutional orders may still reside there.[^7]
+When institutions (banks, hedge funds, large asset managers) place massive orders, they cannot fill them all at once. This creates price imbalances—areas where demand significantly exceeded supply (demand zones) or supply significantly exceeded demand (supply zones). Price is expected to react when it returns to these zones because unfilled institutional orders may still reside there.
 
 ### Identifying Demand Zones
 
-A demand zone forms when there is a **strong upward price departure** from a consolidation or basing area:[^7]
+A demand zone forms when there is a **strong upward price departure** from a consolidation or basing area:
 
 1. Price consolidates or moves sideways (small candles, low volatility)—this is the **base**.
 2. Price explodes upward with large candles, a break of structure, and ideally high volume—this is the **departure leg**.
@@ -25,7 +25,7 @@ When price later returns to this zone, expect buyers to defend it.[^16]
 
 ### Identifying Supply Zones
 
-A supply zone forms when there is a **strong downward price departure** from a consolidation area:[^7]
+A supply zone forms when there is a **strong downward price departure** from a consolidation area:
 
 1. Price consolidates or moves sideways—the **base**.
 2. Price drops aggressively with large candles—the **departure leg**.

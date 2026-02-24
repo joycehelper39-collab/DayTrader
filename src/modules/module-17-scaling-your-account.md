@@ -3,7 +3,7 @@ title: "Module 17: Scaling Your Account"
 order: 17
 layout: module
 tags:
-  - module
+ - module
 slug: module-17-scaling-your-account
 ---
 
@@ -31,7 +31,7 @@ As your account and skill grow, gradually increase position size:[^48]
 
 ### When to Go Live
 
-Transition from paper trading to live trading only when:[^8]
+Transition from paper trading to live trading only when:
 1. You have a **positive expectancy** over at least 100 backtested trades.
 2. You have been **paper trading profitably** for at least 1-3 months.
 3. You can **follow your rules consistently** without emotional deviation.

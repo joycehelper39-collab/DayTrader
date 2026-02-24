@@ -3,7 +3,7 @@ title: "Module 10: Risk Management and Position Sizing"
 order: 10
 layout: module
 tags:
-  - module
+ - module
 slug: module-10-risk-management-and-position-sizing
 ---
 
@@ -47,7 +47,7 @@ Only take trades with a **minimum 2.5:1 or 3:1 RRR**. This means your potential 
 
 ### Stop-Loss Placement
 
-Your stop-loss should be placed at a **logical price level** where your trade thesis is invalidated:[^8]
+Your stop-loss should be placed at a **logical price level** where your trade thesis is invalidated:
 - For demand zone trades: Below the demand zone boundary.
 - For support trades: Below the support level.
 - For chart pattern trades: Beyond the pattern's invalidation point.
@@ -56,7 +56,7 @@ Never use arbitrary stop-loss distances (e.g., "always 10 pips"). Your stop shou
 
 ### Maximum Daily Loss Limit
 
-Set a maximum daily loss of 2-3% of your account. If you hit this limit, stop trading for the day. This prevents revenge trading and catastrophic drawdowns.[^8]
+Set a maximum daily loss of 2-3% of your account. If you hit this limit, stop trading for the day. This prevents revenge trading and catastrophic drawdowns.
 
 ### The Mathematics of Recovery
 

@@ -3,7 +3,7 @@ title: "Module 9: Order Types"
 order: 9
 layout: module
 tags:
-  - module
+ - module
 slug: module-9-order-types
 ---
 

@@ -3,7 +3,7 @@ title: "Module 16: Putting It All Together — Daily Routine"
 order: 16
 layout: module
 tags:
-  - module
+ - module
 slug: module-16-putting-it-all-together-daily-routine
 ---
 

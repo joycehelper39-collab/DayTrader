@@ -3,11 +3,11 @@ title: "Module 18: Common Beginner Mistakes"
 order: 18
 layout: module
 tags:
-  - module
+ - module
 slug: module-18-common-beginner-mistakes
 ---
 
-Avoid these pitfalls that trap most new traders:[^8]
+Avoid these pitfalls that trap most new traders:
 
 1. **Trading without a plan**: Entering trades on gut feeling instead of defined rules.
 2. **Risking too much per trade**: A few bad trades can wipe out weeks of gains.
@@ -18,7 +18,7 @@ Avoid these pitfalls that trap most new traders:[^8]
 7. **Strategy hopping**: Switching strategies after every loss instead of giving one strategy enough time.
 8. **Ignoring risk management**: Focusing on entries while neglecting position sizing and stop-losses.
 9. **Trading during high-impact news**: News events create unpredictable volatility that stops out even good setups.
-10. **Going live too early**: Skipping backtesting and paper trading because you're impatient to make money.[^31][^8]
+10. **Going live too early**: Skipping backtesting and paper trading because you're impatient to make money.[^31]
 
 ***
 
@@ -47,7 +47,7 @@ Avoid these pitfalls that trap most new traders:[^8]
 ## Appendix B: Recommended Learning Resources
 
 **Books**:
-- *Trading in the Zone* by Mark Douglas (trading psychology)[^8]
+- *Trading in the Zone* by Mark Douglas (trading psychology)
 - *Japanese Candlestick Charting Techniques* by Steve Nison (candlestick mastery)[^13]
 - *How to Day Trade for a Living* by Andrew Aziz (beginner foundations)[^49]
 

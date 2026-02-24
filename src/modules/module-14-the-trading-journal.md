@@ -3,7 +3,7 @@ title: "Module 14: The Trading Journal"
 order: 14
 layout: module
 tags:
-  - module
+ - module
 slug: module-14-the-trading-journal
 ---
 

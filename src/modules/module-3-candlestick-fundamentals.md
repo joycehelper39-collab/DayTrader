@@ -3,7 +3,7 @@ title: "Module 3: Candlestick Fundamentals"
 order: 3
 layout: module
 tags:
-  - module
+ - module
 slug: module-3-candlestick-fundamentals
 ---
 
@@ -24,7 +24,7 @@ Candlestick charts are the most widely used chart type in day trading because th
 | **Hammer** | Small body at top, long lower wick (2x body length). Appears at bottom of downtrend. | Bullish reversal[^14] |
 | **Inverted Hammer** | Small body at bottom, long upper wick. Appears at bottom of downtrend. | Bullish reversal[^15] |
 | **Shooting Star** | Small body at bottom, long upper wick. Appears at top of uptrend. | Bearish reversal |
-| **Hanging Man** | Small body at top, long lower wick. Appears at top of uptrend. | Bearish reversal[^1] |
+| **Hanging Man** | Small body at top, long lower wick. Appears at top of uptrend. | Bearish reversal |
 | **Doji** | Virtually no body, wicks on both sides. | Indecision / potential reversal[^13] |
 | **Marubozu** | Full body with no wicks. | Strong momentum in candle direction |
 
@@ -34,9 +34,9 @@ Candlestick charts are the most widely used chart type in day trading because th
 
 **Bearish Engulfing**: A small green candle followed by a larger red candle whose body completely engulfs the previous candle's body. Signals sellers overwhelming buyers.[^13]
 
-**Morning Star**: A three-candle bullish reversal pattern: (1) large red candle, (2) small-bodied candle or doji gapping lower, (3) large green candle closing above the midpoint of candle 1. The small middle candle represents exhaustion of selling pressure.[^15][^1]
+**Morning Star**: A three-candle bullish reversal pattern: (1) large red candle, (2) small-bodied candle or doji gapping lower, (3) large green candle closing above the midpoint of candle 1. The small middle candle represents exhaustion of selling pressure.[^15]
 
-**Evening Star**: The bearish opposite of the Morning Star: (1) large green candle, (2) small-bodied candle or doji gapping higher, (3) large red candle closing below the midpoint of candle 1.[^1]
+**Evening Star**: The bearish opposite of the Morning Star: (1) large green candle, (2) small-bodied candle or doji gapping higher, (3) large red candle closing below the midpoint of candle 1.
 
 **Tweezer Tops/Bottoms**: Two consecutive candles with nearly identical highs (tweezer top) or lows (tweezer bottom), signaling a reversal at a key level.[^15]
 
@@ -46,7 +46,7 @@ Candlestick patterns are **not standalone signals**. They are most reliable when
 - At key support or resistance levels
 - At supply or demand zones
 - In confluence with the prevailing trend
-- With confirming volume[^14][^8]
+- With confirming volume[^14]
 
 A hammer at a random price level is meaningless. A hammer at a strong demand zone in an uptrend is a high-probability signal.
 

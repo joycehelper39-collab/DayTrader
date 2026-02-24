@@ -3,7 +3,7 @@ title: "Module 12: Building Your Trading Plan"
 order: 12
 layout: module
 tags:
-  - module
+ - module
 slug: module-12-building-your-trading-plan
 ---
 
@@ -16,7 +16,7 @@ Define exactly what you trade: specific forex pairs (EUR/USD, GBP/USD), specific
 
 **2. Trading Sessions and Hours**
 
-For stocks, focus on the first hour (9:30-10:30 AM ET) and the last hour (3:00-4:00 PM ET) when volatility and volume are highest. For forex, focus on the London-New York overlap (8:00 AM - 12:00 PM EST) which accounts for roughly 50% of daily forex volume.[^4][^34][^35]
+For stocks, focus on the first hour (9:30-10:30 AM ET) and the last hour (3:00-4:00 PM ET) when volatility and volume are highest. For forex, focus on the London-New York overlap (8:00 AM - 12:00 PM EST) which accounts for roughly 50% of daily forex volume.[^34][^35]
 
 | Session | Time (EST) | Best For |
 |---------|-----------|----------|

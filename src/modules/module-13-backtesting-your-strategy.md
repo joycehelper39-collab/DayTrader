@@ -3,7 +3,7 @@ title: "Module 13: Backtesting Your Strategy"
 order: 13
 layout: module
 tags:
-  - module
+ - module
 slug: module-13-backtesting-your-strategy
 ---
 
@@ -22,7 +22,7 @@ This is the most accessible method for beginners:
 
 1. **Open your charting platform** (TradingView recommended) and use the "Replay" feature.
 2. **Go to a historical date** on your chosen instrument.
-3. **Play forward candle by candle**, applying your strategy rules exactly as you would in real time.[^8]
+3. **Play forward candle by candle**, applying your strategy rules exactly as you would in real time.
 4. **Record every trade** in a spreadsheet: entry price, exit price, stop-loss, take-profit, result (win/loss), risk-to-reward achieved.
 5. **Do NOT cherry-pick**—mark every setup that meets your rules, even if it results in a loss.
 
@@ -48,7 +48,7 @@ This is the most accessible method for beginners:
 After successful backtesting, transition to **paper trading** (demo trading):
 - Trade your strategy in real-time with simulated money.
 - This tests your ability to execute under live market conditions (speed, emotion, decision-making).
-- Paper trade for **at least 1-3 months** before going live.[^40][^8]
+- Paper trade for **at least 1-3 months** before going live.[^40]
 - Track results the same way as backtesting.
 
 ***
